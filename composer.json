@@ -1,0 +1,13 @@
+{
+    "name": "coolmic/zf2-classmap-generator",
+    "type": "application",
+    "description": "Generate classmap with zf2 from everywhere",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zend-console": "~2.5.0",
+        "zendframework/zend-file": "~2.5.0",
+        "zendframework/zend-loader": "~2.5.0"
+    },
+    "bin": ["classmap_generator"]
+}
